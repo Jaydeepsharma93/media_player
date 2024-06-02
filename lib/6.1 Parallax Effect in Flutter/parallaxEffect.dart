@@ -28,5 +28,4 @@ class ParallaxEffect extends StatelessWidget {
       ),
     );
   }
-
 }
