@@ -19,7 +19,7 @@ class ParallaxEffect extends StatelessWidget {
             ),
           ),
           options: CarouselOptions(
-              height: 600,
+              height: 650,
               viewportFraction: 0.75,
               animateToClosest: true,
               enableInfiniteScroll: false,
